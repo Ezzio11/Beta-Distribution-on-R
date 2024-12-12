@@ -1,0 +1,1 @@
+Worked with 3 colleagues on writing a comprehensive report regarding the Beta probability distribution with different parameters on R. The project was an introduction to R and trained us on proper report writing and commenting on results.
